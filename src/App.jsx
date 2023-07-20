@@ -4,7 +4,7 @@ import Footer from './Components/Footer'
 import HeroElement from './Components/HeroElement'
 import Middlesec from './Components/Middlesec'
 import Thirdsec from './Components/Thirdsec'
-import Header from './Components/header'
+import Header from './Components/Header'
 function App() {
 
 
