@@ -14,7 +14,7 @@ function App() {
      <Header/>
      <HeroElement/>
       </div>
-    <div className='curve'><img src='./src/assets/Curve2.png'/></div>    
+    <div className='curve'><img src='/Curve2.png'/></div>    
     <Middlesec/>
     <Thirdsec/>
     <Footer/>

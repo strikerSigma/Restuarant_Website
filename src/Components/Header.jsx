@@ -4,7 +4,7 @@ const Header = () => {
   const [displaymenu,setDisplayMenu] = useState(false);
   return (
     <nav className="flex items-center justify-between p-4">
-      <div className="logo"><img src='./src/assets/Logo.png'/></div>
+      <div className="logo"><img src='/Logo.png'/></div>
       <ul className="flex space-x-4 menu">
         <li><a className="text-gray-800 hover:text-gray-600 font-semibold text-xl pr-4" href="#">Home</a></li>
         <li><a className="text-gray-800 hover:text-gray-600 font-semibold text-xl pr-4" href="#">About Us</a></li>

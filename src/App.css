@@ -14,7 +14,7 @@ body {
 }
 .Main {
   height: 800px;
-  background-image: url('./assets/MainImg.jpg');
+  background-image: url('/MainImg.jpg');
   background-size: cover;
   background-position: center;
   position: relative;
@@ -109,7 +109,7 @@ button:hover {
   top: 900px;
 }
 .thirdSection{
-  background-image: url('./assets/StaticBG.png');
+  background-image: url('/StaticBG.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;

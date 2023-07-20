@@ -12,7 +12,7 @@ const HeroElement = () => {
     <button className='md:px-16' >Order Now!</button>
     </div>
   <div className='w-96 h-auto  md:mt-10 md:mr-20 img'>
-    <img src='./src/assets/FoodPic.png'  />
+    <img src='/FoodPic.png'  />
   </div>
     </div>
   )
